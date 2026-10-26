@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+settings.json
+wood.png
+enabled.png
+disabled.png
+run.log
