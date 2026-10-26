@@ -1,3 +1,4 @@
 @echo off
-py -3 -m pip install pyautogui pillow pynput
+cd /d "%~dp0"
+py -3 -m pip install -r requirements.txt
 pause
